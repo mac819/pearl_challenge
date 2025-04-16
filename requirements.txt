@@ -12,4 +12,12 @@ ruff
 scikit-learn
 tqdm
 typer
+seaborn
+openpyxl
+plotly
+xgboost
+statsmodels
+scikit-posthocs
+optuna
+optuna[xgboost]
 -e .
