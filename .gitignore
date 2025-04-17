@@ -184,3 +184,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+*.zip
+*.csv
+*.bst
+models/exp_v1/income_regression_model.bst
